@@ -149,6 +149,7 @@ public class QuestMapView extends MapActivity {
 			}
 		});
 	}
+	
 
 	@Override
 	public void onActivityResult(int requestCode, int resultCode, Intent data) {
